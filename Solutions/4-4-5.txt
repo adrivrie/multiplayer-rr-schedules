@@ -4,4 +4,4 @@
 [[1, 7, 12, 14], [2, 8, 11, 13], [3, 5, 10, 16], [4, 6, 9, 15]]
 [[1, 8, 10, 15], [2, 7, 9, 16], [3, 6, 12, 13], [4, 5, 11, 14]]
 
-c optimal http://web.archive.org/web/20050407074608/http://www.icparc.ic.ac.uk/~wh/golf/solutions.html
+c optimal as per http://web.archive.org/web/20050407074608/http://www.icparc.ic.ac.uk/~wh/golf/solutions.html
