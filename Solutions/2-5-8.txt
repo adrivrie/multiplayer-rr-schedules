@@ -9,3 +9,5 @@
 
 c cube error is 50.75
 c 2: 6, 3: 16, 4: 15, 5: 8
+
+c optimal solution (3/4 only) proven impossible by MILP
